@@ -67,5 +67,4 @@ This project is licensed under the MIT License.
 
 Author
 Lokesh Parasuraman
-- GitHub:https://github.com/lokeshparasuraman
 - Email: lokeshparasu@gmail.com
